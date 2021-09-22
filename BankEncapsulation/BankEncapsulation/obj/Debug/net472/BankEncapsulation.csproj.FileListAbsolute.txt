@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\bin\Debug\net472\BankEncapsulation.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\bin\Debug\net472\BankEncapsulation.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\bin\Debug\net472\BankEncapsulation.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\BankEncapsulation\BankEncapsulation\BankEncapsulation\obj\Debug\net472\BankEncapsulation.pdb
